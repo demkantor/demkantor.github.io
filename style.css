@@ -2,9 +2,10 @@ p {
   background-color: #C4CECD
 }
 /* image boarder */
-div.card {
-  width: 250px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
 }
 /* navbar */
 .navbar {
